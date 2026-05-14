@@ -1,5 +1,3 @@
-# README
-````markdown id="w6s0ls"
 # 📊 Excel Reconciliation System
 
 An enterprise-style Excel reconciliation application built using Python and Streamlit.
